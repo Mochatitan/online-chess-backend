@@ -1,0 +1,27 @@
+{
+  "name": "online-chess-backend",
+  "version": "1.0.0",
+  "description": "backend for mochatitans online chess",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mochatitan/online-chess-backend.git"
+  },
+  "author": "Mochatitan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mochatitan/online-chess-backend/issues"
+  },
+  "homepage": "https://github.com/Mochatitan/online-chess-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
